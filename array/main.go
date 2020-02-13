@@ -19,6 +19,11 @@ func main()  {
 		fmt.Printf("index: %d, value: %d\n", key, val)
 	}
 
+	//忽略index
+	for _, val := range arr {
+		fmt.Printf("value: %d\n", val)
+	}
+
 	//追加(slice)
 	slice := arr[0:]
 	slice = append(slice, 100)
