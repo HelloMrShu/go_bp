@@ -22,7 +22,10 @@ func main()  {
 
 	//slice的容量是从起始地址到底层数据结构的尾部
 	fmt.Printf("\narr type capacity: %d", cap(arr))
-	fmt.Printf("\nslice type capacity: %d", cap(slice))
+	fmt.Printf("\nslice type capacity: %d\n\n", cap(slice))
 
+	slice = append(slice, 55)
+
+	fmt.Println(slice)
 
 }
