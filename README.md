@@ -8,3 +8,4 @@ GoLang learn notes
 #### 3 customed package
 #### 3 array -d array
 #### 4 slice -d slice
+#### 5 func -d function
