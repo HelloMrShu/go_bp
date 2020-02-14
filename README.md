@@ -9,3 +9,5 @@ GoLang learn notes
 #### 3 array -d array
 #### 4 slice -d slice
 #### 5 func -d function
+#### 6 map -d map
+#### 7 string -d string
