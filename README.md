@@ -11,3 +11,5 @@ GoLang learn notes
 #### 5 func -d function
 #### 6 map -d map
 #### 7 string -d string
+#### 8 pointer -d pointer
+#### 9 struct -d structure
