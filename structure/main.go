@@ -42,10 +42,4 @@ func main()  {
 	var p = &User{"lily", 25, Address{"guangzhou"}}
 	p.age = 33
 	fmt.Println(*p)
-
-	
-
-
-
-
 }
