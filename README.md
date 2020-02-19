@@ -7,13 +7,14 @@ GoLang learn notes
 #### 1 helloworld -d helloworld
 #### 2 crawler -d query
 #### 3 customed package
-#### 3 array -d array
-#### 4 slice -d slice
-#### 5 func -d function
-#### 6 map -d map
-#### 7 string -d string
-#### 8 pointer -d pointer
-#### 9 struct -d structure
-#### 10 method -d method
-#### 11 interface -d inter_face
-#### 12 concurrency -d Concurrency
+#### 4 array -d array
+#### 5 slice -d slice
+#### 6 func -d function
+#### 7 map -d map
+#### 8 string -d string
+#### 9 pointer -d pointer
+#### 10 struct -d structure
+#### 11 method -d method
+#### 12 interface -d inter_face
+#### 13 concurrency -d Concurrency
+#### 13 channel -d channels
