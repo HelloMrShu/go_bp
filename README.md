@@ -15,6 +15,9 @@ GoLang learn notes
 #### 9 pointer -d pointer
 #### 10 struct -d structure
 #### 11 method -d method
-#### 12 interface -d inter_face
+#### 12 interfaces -d interfaces
 #### 13 concurrency -d Concurrency
-#### 13 channel -d channels
+#### 14 channel -d channels
+#### 15 select -d select
+#### 16 mutex -d mutex
+#### 16 oop -d oop
