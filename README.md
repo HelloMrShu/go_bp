@@ -20,4 +20,7 @@ GoLang learn notes
 #### 14 channel -d channels
 #### 15 select -d select
 #### 16 mutex -d mutex
-#### 16 oop -d oop
+#### 17 oop -d oop
+#### 18 defer -d defer
+#### 19 errorhandle -d errorhandle
+#### 20 panic -d panic
