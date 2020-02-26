@@ -26,3 +26,4 @@ GoLang learn notes
 #### 20 panic -d panic
 #### 21 reflection -d reflection
 #### 22 file -d files
+#### 23 template -d echo
